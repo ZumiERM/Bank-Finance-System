@@ -1,9 +1,5 @@
 package FinalProject;
 
-/**
- *
- * @author Mellisa
- */
 public class Home extends javax.swing.JFrame {
 
     /**
