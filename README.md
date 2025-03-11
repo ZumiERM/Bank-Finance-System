@@ -1,8 +1,6 @@
 # Bank-Finance-System
 This is currently my whole final project for our subject Computer Programming.
 
-CURRENTLY USING NetBeans AS MY IDE FOR ITS GUI AND SINCE OUR INSTRUCTOR TAUGHT US THIS
-
 This system will include numereous features that resemble a real functional banking system
 it can save data with through linking it on my SQL Workbench. It acts normal and can perform
 deposits, withdrawal, investing, and transaction history.
@@ -12,3 +10,4 @@ NOTE: Please do understand that I am still a first year student in the BSIT cour
   improve my current Project. Thank you for reading this, have a great day!
 
 **THIS SYSTEM IS CURRENTLY STILL IN PROGRESS AND I'M WORKING TO MAKE IT WORK THE WAY I WANT IT TOO**
+**CURRENTLY USING NetBeans AS MY IDE FOR ITS GUI AND SINCE OUR INSTRUCTOR TAUGHT US THIS**
