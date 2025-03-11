@@ -2,10 +2,6 @@ package FinalProject;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Mellisa
- */
 public class Login extends javax.swing.JFrame {
 
     /**
