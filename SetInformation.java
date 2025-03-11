@@ -1,9 +1,5 @@
 package FinalProject;
 
-/**
- *
- * @author Mellisa
- */
 public class SetInformation extends javax.swing.JFrame {
 
     /**
