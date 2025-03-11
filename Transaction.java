@@ -1,9 +1,5 @@
 package FinalProject;
 
-/**
- *
- * @author Mellisa
- */
 public class Transaction extends javax.swing.JFrame {
 
     /**
