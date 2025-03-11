@@ -1,9 +1,5 @@
 package FinalProject;
 
-/**
- *
- * @author Mellisa
- */
 public class CheckLoginCredentials extends javax.swing.JFrame {
 
     /**
