@@ -1,9 +1,5 @@
 package FinalProject;
 
-/**
- *
- * @author Mellisa
- */
 public class ExchangeMoney extends javax.swing.JFrame {
 
     /**
