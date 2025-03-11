@@ -1,5 +1,6 @@
 # Bank-Finance-System
 This is currently my whole final project for our subject Computer Programming.
+CURRENTLY USING NetBeans AS MY IDE, AND JFRAME CREATOR SINCE ITS WHAT OUR PROFESSOR TAUGHT US IN
 
 This system will include numereous features that resemble a real functional banking system
 it can save data with through linking it on my SQL Workbench. It acts normal and can perform
